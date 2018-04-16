@@ -1,5 +1,3 @@
-declare var bPromise: any;
-
 // Declare these modules so as to use "import" those ones in typescript
 // If don't want to use this, delete it and just use require in typescript
 

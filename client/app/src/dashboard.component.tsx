@@ -153,7 +153,7 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
                                 </div>
                                 <div className="content_search ml-lg-0 ml-auto">
                                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                                        width="17px" height="17px" viewBox="0 0 512 512" enable-background="new 0 0 512 512">
+                                        width="17px" height="17px" viewBox="0 0 512 512" enableBackground="new 0 0 512 512">
                                         <g>
                                             <g>
                                                 <g>
@@ -283,11 +283,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                     <div className="home_slider_nav home_slider_prev">
                         <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                            width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                            width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                             <defs>
                                 <linearGradient id='home_grad_prev'>
-                                    <stop offset='0%' stop-color='#fa9e1b' />
-                                    <stop offset='100%' stop-color='#8d4fff' />
+                                    <stop offset='0%' stopColor='#fa9e1b' />
+                                    <stop offset='100%' stopColor='#8d4fff' />
                                 </linearGradient>
                             </defs>
                             <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
@@ -300,11 +300,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                     <div className="home_slider_nav home_slider_next">
                         <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                            width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                            width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                             <defs>
                                 <linearGradient id='home_grad_next'>
-                                    <stop offset='0%' stop-color='#fa9e1b' />
-                                    <stop offset='100%' stop-color='#8d4fff' />
+                                    <stop offset='0%' stopColor='#fa9e1b' />
+                                    <stop offset='100%' stopColor='#8d4fff' />
                                 </linearGradient>
                             </defs>
                             <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
@@ -792,11 +792,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                                 <div className="cta_slider_nav cta_slider_prev">
                                     <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                                        width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                                        width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                                         <defs>
                                             <linearGradient id='cta_grad_prev'>
-                                                <stop offset='0%' stop-color='#fa9e1b' />
-                                                <stop offset='100%' stop-color='#8d4fff' />
+                                                <stop offset='0%' stopColor='#fa9e1b' />
+                                                <stop offset='100%' stopColor='#8d4fff' />
                                             </linearGradient>
                                         </defs>
                                         <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
@@ -809,11 +809,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                                 <div className="cta_slider_nav cta_slider_next">
                                     <svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                                        width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                                        width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                                         <defs>
                                             <linearGradient id='cta_grad_next'>
-                                                <stop offset='0%' stop-color='#fa9e1b' />
-                                                <stop offset='100%' stop-color='#8d4fff' />
+                                                <stop offset='0%' stopColor='#fa9e1b' />
+                                                <stop offset='100%' stopColor='#8d4fff' />
                                             </linearGradient>
                                         </defs>
                                         <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
@@ -1197,11 +1197,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                                 <div className="test_slider_nav test_slider_prev">
                                     <svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                                        width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                                        width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                                         <defs>
                                             <linearGradient id='test_grad_prev'>
-                                                <stop offset='0%' stop-color='#fa9e1b' />
-                                                <stop offset='100%' stop-color='#8d4fff' />
+                                                <stop offset='0%' stopColor='#fa9e1b' />
+                                                <stop offset='100%' stopColor='#8d4fff' />
                                             </linearGradient>
                                         </defs>
                                         <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
@@ -1214,11 +1214,11 @@ export class DashboardComponent extends React.Component<DashboardComponent.Props
     
                                 <div className="test_slider_nav test_slider_next">
                                     <svg version="1.1" id="Layer_7" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-                                        width="28px" height="33px" viewBox="0 0 28 33" enable-background="new 0 0 28 33">
+                                        width="28px" height="33px" viewBox="0 0 28 33" enableBackground="new 0 0 28 33">
                                         <defs>
                                             <linearGradient id='test_grad_next'>
-                                                <stop offset='0%' stop-color='#fa9e1b' />
-                                                <stop offset='100%' stop-color='#8d4fff' />
+                                                <stop offset='0%' stopColor='#fa9e1b' />
+                                                <stop offset='100%' stopColor='#8d4fff' />
                                             </linearGradient>
                                         </defs>
                                         <path className="nav_path" fill="#F3F6F9" d="M19,0H9C4.029,0,0,4.029,0,9v15c0,4.971,4.029,9,9,9h10c4.97,0,9-4.029,9-9V9C28,4.029,23.97,0,19,0z
