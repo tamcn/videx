@@ -26,6 +26,9 @@ module.exports = {
   resolve: {
     extensions: [".css", ".tsx", ".ts", ".js"],
   },
+  performance: {
+    hints: false
+  },
   module: {
     rules: [
       {
@@ -44,7 +47,16 @@ module.exports = {
       {
         test: /\.(png|jpg|woff|woff2|eot|ttf|svg|otf)$/,
         use: 'url-loader'
-      }
+      },
+      {
+        test: /\.(ts|tsx)?$/,
+        enforce: 'pre',
+        loader: 'tslint-loader',
+        options: {
+          emitErrors: true,
+          failOnHint: false
+        }
+      },
     ]
   },
   optimization: {
